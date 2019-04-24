@@ -1,0 +1,29 @@
+set_io clk R9
+
+set_io sig[0] N9
+set_io sig[1] P9
+set_io sig[2] M8
+set_io sig[3] N7
+set_io sig[4] L9
+set_io sig[5] G5
+set_io sig[6] L7
+set_io sig[7] N6
+
+set_io Product[0] R10
+set_io Product[1] T11
+set_io Product[2] T14
+set_io Product[3] T15
+set_io Product[4] T9
+set_io Product[5] T10
+set_io Product[6] T13
+set_io Product[7] R14
+
+set_io Product[8] B7
+set_io Product[9] B6
+set_io Product[10] B3
+set_io Product[11] B5
+set_io Product[12] B8
+set_io Product[13] A9
+set_io Product[14] A10
+
+set_io Product[15] A11
